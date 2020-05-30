@@ -1,0 +1,13 @@
+#content{
+    float: left;
+}
+#sideBar{
+    float: left;
+}
+footer{
+    clear: both;
+}
+*{
+    box-sizing: border-box;
+    margin: auto;
+}
